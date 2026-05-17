@@ -26,7 +26,7 @@ Dieses Tool automatisiert den gesamten Workflow: **Man gibt nur noch den Charakt
 
 ## Systemvoraussetzungen
 1. **Windows Host:** Windows 10/11 mit installierter PowerShell und nativem SSH/SCP-Client.
-2. **Server-Infrastruktur:** Laufender Metin2-Server auf FreeBSD-Basis mit installiertem MySQL/MariaDB-Server.
+2. **Server-Infrastruktur:** Laufender Server auf FreeBSD-Basis mit installiertem MySQL/MariaDB-Server.
 3. **SSH-Zugang:** Ein eingerichteter, passwortloser SSH-Key-Zugang zum FreeBSD-Server wird dringend empfohlen.
 
 ---
