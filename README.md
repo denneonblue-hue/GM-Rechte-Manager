@@ -1,10 +1,9 @@
-<img width="1115" height="628" alt="gmtool2" src="https://github.com/user-attachments/assets/f6a8507e-6742-47fe-af73-7cce2e6e13c2" />
-<img width="2290" height="1225" alt="gmtool1" src="https://github.com/user-attachments/assets/c2445014-23ed-4bf9-b6f0-f83d52c49739" />
-
-
 # GM-Rechte Manager (PowerShell)
 
 Ein intelligentes, interaktives PowerShell-Skript zur automatisierten Verwaltung von Game-Master-Rechten auf einem FreeBSD-Server. Das Skript ermittelt den zugehörigen Login-Account vollautomatisch anhand des Ingame-Charakternamens, manipuliert die Spieldatenbank (MariaDB/MySQL) sicher aus der Windows-Konsole heraus und startet bei Bedarf die Server-Cores neu.
+
+<img width="1115" height="628" alt="gmtool2" src="https://github.com/user-attachments/assets/f6a8507e-6742-47fe-af73-7cce2e6e13c2" />
+<img width="2290" height="1225" alt="gmtool1" src="https://github.com/user-attachments/assets/c2445014-23ed-4bf9-b6f0-f83d52c49739" />
 
 ### Motivation & Ziel
 In der Metin2-Datenbankstruktur verlangt die Tabelle `common.gmlist` zwingend sowohl den Account- als auch den Charakternamen. Das manuelle Suchen des Accounts über Datenbank-Tools sowie das anschließende Neustarten der Server-Cores über SSH ist extrem zeitaufwendig. 
